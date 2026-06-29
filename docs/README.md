@@ -35,6 +35,10 @@ ZulipChat MCP v0.7.1 is a Model Context Protocol server for Zulip Chat.
 - [Commands](api-reference/commands.md)
 - [System](api-reference/system.md)
 
+## Operations
+
+- [Session lifecycle and orphan cleanup](operations/sessions.md)
+
 ## Developer Docs
 
 - [Architecture](developer-guide/architecture.md)
